@@ -64,3 +64,7 @@ $ make install
 
 #### prefix 경로 확인
 - ~/app/openexr 경로에 bin, include, lib, share 경로가 생성됩니다.
+
+## 수업 메모
+- 그래픽을 더 공부하고 싶다면, ~app/openexr-2.3.0/IlmBase에 있는 C++코드들을 공부하면 된다
+	(VFX는 가장 최신 기술이 가장 먼저 들어오는 곳이니까!)
