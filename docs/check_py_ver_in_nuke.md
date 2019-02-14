@@ -66,3 +66,6 @@ print(PySide2.__version__)
 
 ## Reference
 - https://davemne.wordpress.com/2017/08/07/nuke-11-and-pyside2/
+
+## 수업 메모
+- 에러를 만났을 때 가장 먼저 체크할 것은 파이썬의 버전!
